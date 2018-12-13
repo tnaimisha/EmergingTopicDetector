@@ -1,4 +1,4 @@
-# Twitter-streaming-analysis-using-Spark
+# Energing topic detector and Sentiment Analysis on the emerging topic tweets
 
 This project experiments with Twitter streaming and various Spark streaming APIs(DStream abstraction)
 
